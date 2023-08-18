@@ -1,0 +1,15 @@
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\XlsXMht2Csv.exe.config
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\XlsXMht2Csv.exe
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\XlsXMht2Csv.pdb
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ConvertLibrary.dll
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ExcelDataReader.dll
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ConvertLibrary.pdb
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ConvertLibrary.dll.config
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ExcelDataReader.pdb
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\bin\Debug\ExcelDataReader.xml
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.csproj.AssemblyReference.cache
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.csproj.CoreCompileInputs.cache
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.csproj.CopyComplete
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.exe
+C:\Users\georg.schweizer\source\repos\REPO\XlsXMht2Csv_Plugin\XlsXMht2Csv\obj\Debug\XlsXMht2Csv.pdb

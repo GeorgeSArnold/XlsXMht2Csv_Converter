@@ -1,0 +1,21 @@
+ID;FirstName;LastName;Expertise
+1;Alan;Turing;Cryptography
+2;Grace;Hopper;Compilation
+3;Tim;Berners-Lee;Web Development
+4;John;McCarthy;AI
+5;Linus;Torvalds;Operatin Systems
+6;Steve;Jobs;Inovation
+7;Bill;Gates;Software Dev
+8;Donald;Knuth;Algorithms
+9;Niklaus;Writh;Programming Languages
+10;Ada;Lovelace;Programming
+11;Andrew;Tanenbaum;Networking
+12;Larry;Page;Seach Engines
+13;Sergey;Brin;Seach Engines
+14;Richard;Stallman;Open Source
+15;Ken;Thompson;UNIX
+16;Dennis;Ritchie;C Programming
+17;Vint;Cerf;Internet Protocols
+18;Bob;Kahn;Internet Protocols
+19;Marc;Andreessen;Web Browser
+20;Bjarne;Stoustrup;C++ Programming
